@@ -1,12 +1,34 @@
-## Hi there 👋
+# 조직 이름
 
-<!--
+![Organization Banner](URL_TO_BANNER_IMAGE)
 
-**Here are some ideas to get you started:**
+## 조직 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+......
+
+## 레포지토리 개요
+
+여기는 우리 조직에서 관리하는 몇 가지 주요 프로젝트입니다:
+
+1. [프로젝트 이름](프로젝트 링크)
+   - **설명:** 프로젝트에 대한 간략한 설명.
+   - **기술 스택:** 사용된 주요 기술.
+
+2. [프로젝트 이름](프로젝트 링크)
+   - **설명:** 프로젝트에 대한 간략한 설명.
+   - **기술 스택:** 사용된 주요 기술.
+
+3. [프로젝트 이름](프로젝트 링크)
+   - **설명:** 프로젝트에 대한 간략한 설명.
+   - **기술 스택:** 사용된 주요 기술.
+
+## 구성원
+
+|사진|이름|파트|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+
+
+
+더 자세한 정보는 우리 웹사이트를 방문해주세요: [https://example.com](https://example.com)

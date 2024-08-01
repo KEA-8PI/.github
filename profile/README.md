@@ -4,7 +4,7 @@
 
 ## ℹ Introduction
 
-사내에서 제공하는 복지 물품을 공정성을 지켜 추첨해주는 통합 사내 추첨 서비스, BenePick입니다.
+사내에서 제공하는 복지 상품을 공정성을 지켜 추첨해주는 사내 추첨 상품 통합 서비스, BenePick입니다.
 
 
 ## 🕰 Development period
